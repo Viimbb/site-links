@@ -64,8 +64,8 @@ background-color: #423859;
 /*Esta classe coresponde a area do 
 link */
 .link-box {
-    width: 50%;
-    max-width: 790px;
+    width: center;
+    max-width: center;
     height: 70px;
     border-radius: 10px;
     /* este box-shadow e conhecido como 
